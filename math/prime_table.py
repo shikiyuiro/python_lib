@@ -9,3 +9,4 @@ def prime_table(upper):
                 is_prime[d] = False
                 d += i
     return res
+# upper未満の素数のlistを返す
